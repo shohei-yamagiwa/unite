@@ -6,8 +6,7 @@
 
 ## About The Project
 
-Unite is a highly customizable java framework for developing a desktop application.  
-Unlike Swing, you can create your own theme on your application build with this framework.
+Unite is a highly customizable java framework for developing a desktop application.
 
 ## Wiki
 
